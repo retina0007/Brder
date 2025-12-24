@@ -1,0 +1,7 @@
+{
+  "name": "Retina Flow",
+  "description": "AI-powered automation for driving schools featuring appointment scheduling and review management.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
